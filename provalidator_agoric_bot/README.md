@@ -11,6 +11,7 @@
 ### ex) /staking
 
 ## bot shows coin's information.
+<code>
 💫 Agoric
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
@@ -21,3 +22,4 @@
 📌notStakedTokens : 9,999,999,999,999,998,000 (100.00%)
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 Supported by Provalidator
+</code>
