@@ -4,23 +4,20 @@
 
 
 
-## 1. Invite @ProvalidatorCosmosBot
+## 1. Invite @ProvalidatorAgoricBot
 
 ## 2. Enter command name 
 
-### ex) /staked
+### ex) /staking
 
 ## bot shows coin's information.
-⚛️ Cosmos(Atom)
+💫 Agoric
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
 🥩Staking
 
-🔐Staked : 175,022,926 (65%)
-
-🔓Unstaked : 95,495,356 (35%)
-
-⛓️Max Sply : 270,518,282 (100%)
-
+📌maxTokens : 10,000,000,000,000,000,000 (100%)
+📌stakedTokens : 2,193 (0.00%)
+📌notStakedTokens : 9,999,999,999,999,998,000 (100.00%)
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 Supported by Provalidator
